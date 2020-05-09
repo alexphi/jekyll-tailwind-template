@@ -8,4 +8,8 @@
 
     gtag('config', '{{ site.gtag_id }}');
 </script>
+{% else %}
+<script>
+    console.log('No analytics tracking id found!');
+</script>
 {% endif %}
