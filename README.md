@@ -11,7 +11,9 @@ A minimal repo to create a static site using [Jekyll][jekyll] and [TailwindCSS][
 Clone the repo and run the following:
 
 `bundle install` -> This installs Ruby gems and jekyll plugins
+
 `npm install` -> This installs postcss-cli and tailwindcss packages
+
 `bundle exec jekyll serve` -> Generates the site with develop settings and listens on http://localhost:4000
 
 
