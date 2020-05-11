@@ -1,6 +1,6 @@
 # Jekyll Tailwind template
 
-A minimal repo to create a static site using [Jekyll][jekyll] and [TailwindCSS][tailwind]. It uses the [jekyll-postcss](https://github.com/mhanberg/jekyll-postcss) plugin and a standard `postcss.config.js` file which references the TailwindCSS plugin.
+A minimal repo to create a static site using [Jekyll][jekyll] and [TailwindCSS][tailwind]. It uses the [jekyll-postcss](https://github.com/mhanberg/jekyll-postcss) plugin and a very basic `postcss.config.js` file which references the TailwindCSS plugin.
 
 [jekyll]:https://jekyllrb.com/
 [tailwind]:https://tailwindcss.com/
