@@ -26,9 +26,9 @@ The included `netlify.toml` file will override the default build command to inst
 
 ## Why another Jekyll + Tailwind starter/template?
 
-Basically, this in an opinionated template where files are organized as I like. This is the setup I use on almost every static site project I work on.
+This in an opinionated template where files are organized as I like. This is the setup I use on almost every static site project I work on.
 
-All pages (except 404.html) are under a `pages` folder. I like to manually set the permalink for all content in my sites, and I don't like too much files at the root level.
+All pages (except 404.html) are under a `pages` folder. I like to manually set the permalink for all content in my sites, and I don't like seeing actual content files at the root level.
 
 
 ## Next steps
